@@ -21,10 +21,10 @@ Python 3.9 or above
 Libraries: pygame, mido, python-rtmidi, websockets
 Installation
 Clone the repository:
-
+```
 git clone https://github.com/Toyolo/dueling-pianos.git
 Navigate to the project directory:
-
+```
 cd dueling-pianos
 Set up a virtual environment (optional but recommended):
 
