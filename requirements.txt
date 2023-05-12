@@ -1,0 +1,5 @@
+pygame==2.0.1
+mido==1.2.10
+python-rtmidi==1.4.7
+websockets==9.1
+asyncio==3.4.3
