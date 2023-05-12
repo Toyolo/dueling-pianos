@@ -23,21 +23,25 @@ Installation
 Clone the repository:
 ```
 git clone https://github.com/Toyolo/dueling-pianos.git
+```
 Navigate to the project directory:
 ```
 cd dueling-pianos
+```
 Set up a virtual environment (optional but recommended):
-
+```
 python -m venv venv
 source venv/bin/activate  # For Unix/Linux
 venv\Scripts\activate  # For Windows
+```
 Install the required libraries:
-
+```
 pip install -r requirements.txt
-Usage
+```
+### Usage
 Connect your MIDI piano device to your computer.
 
-Run the game:
+### Run the game:
 python main.py
 Use the MIDI piano to play the falling notes and match the tempo of the song.
 
